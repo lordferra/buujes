@@ -5,4 +5,5 @@ body {
 .centrar {
     margin-left: auto;
     margin-right: auto;
+    display:block; /* Te agregué display block bujes ;D te amo */ 
 }
